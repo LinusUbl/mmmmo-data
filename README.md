@@ -1,5 +1,5 @@
 # MMMMO Data
-MMMMO (Metchild's Medieval Mystical Manuscripts Online) is a project that aims to visualize the handwritten tradition of the *Liber Specialis Gratiae* by Mechtilde of Hackeborn on an interactive map. The map can be accessed fia the following URL: https://helftamysticism.org.
+MMMMO (Mechthild's Medieval Mystical Manuscripts Online) is a project that aims to visualize the handwritten tradition of the *Liber Specialis Gratiae* by Mechthild of Hackeborn on an interactive map. The map can be accessed fia the following URL: https://helftamysticism.org.
 
 This repository holds all the data that is displayed on [helftamysticism.org](https://helftamysticism.org). This includes all manuscripts and their locations, the libraries they are kept in today and the info texts displayed in the sidebar.
 

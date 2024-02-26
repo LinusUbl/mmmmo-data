@@ -1,7 +1,7 @@
 id,signature,year (map),order,library,category (desc),date (desc),location (desc),extract (desc),description,hsc,catalog,digital copy,additional info,origin,radius,long,lat
-md1,"Berlin, Staatsbibliothek, Ms. germ. oct. 328",1500,Franziskaner,"Berlin, Staatsbibliothek","Gebet- und Andachtsbuch; Predigten, geistl. Kurztexte",Ende 15. Jh./Anf. 16. Jh.,"niederrheinisch, evtl. Aachen, Franziskaner","87r-88v: III, 2 
-238v-245r: IV, 22, 30; III, 23b; IV, 38, 58; III, 32 
-262v-266r: IV, 7; V, 15; III, 29; IV, 7",,http://handschriftencensus.de/4581,"http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0603c_b103_jpg.htm
+md1,"Berlin, Staatsbibliothek, Ms. germ. oct. 328",1500,Franziskaner,"Berlin, Staatsbibliothek","Gebet- und Andachtsbuch (Predigten, geistl. Kurztexte)",Ende 15. Jh./Anf. 16. Jh.,"niederrheinisch, evtl. Aachen, Franziskaner","87r–89r: III, 2  <br>
+239r–245v: IV, 22, 30; III, 23b; IV, 38, 58; III, 32<br> 
+263r–266v: IV, 7; V, 15; III, 29<br>",Vorbesitzer: 19. Jh. Jan Hendrik Bormans <br> ,http://handschriftencensus.de/4581,"http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0603c_b103_jpg.htm
 http://pik.ku-eichstaett.de/543/",,,,3.00,6.08380,50.77560
 md2,"Berlin, Staatsbibliothek, Ms. germ. oct. 560",1505,Augustiner,"Berlin, Staatsbibliothek",Gebet- und Andachtsbuch,1505,"Groß-Frankenthal, Augustinerchorherrenstift","31r-36v: I, 19e 
 90r-v: V, 6",,http://www.handschriftencensus.de/9335,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0603c_b186_jpg.htm,,"mitteldeutsch; vom Schreiber Niclas Numan 
@@ -52,8 +52,8 @@ md18,"Darmstadt, Universitäts- und Landesbibliothek, Hs. 1923",1525,Augustiner,
 Augustinerinnen","223r-226v: I, 19d+e
 229v: V, 6",,http://handschriftencensus.de/18170,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0012_b230_jpg.htm,,,,,6.96390,50.92470
 md19,"Darmstadt, Universitäts- und Landesbibliothek, Hs. 1927",1500,Augustiner,"Darmstadt, Universitäts- und Landesbibliothek",Gebete und Andachten,um 1490 (tw. 1520),"St. Maria Magdalena, Köln, 
-Augustinerinnen","53v-56r: I, 43
-95v-96r: I, 5b",,http://handschriftencensus.de/18174,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0012_b239_jpg.htm,,,,,6.96390,50.92470
+Augustinerinnen","53v–56r: I, 43 <br>
+95v–96r: I, 5b",,http://handschriftencensus.de/18174,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0012_b239_jpg.htm,,,,,6.96390,50.92470
 md20,"Darmstadt, Universitäts- und Landesbibliothek, Hs. 1931",1520,Augustiner,"Darmstadt, Universitäts- und Landesbibliothek",Andachten für die Feste des Kirchenjahres,um 1520,"St. Maria Magdalena, Köln, 
 Augustinerinnen","30r-34v: I, 19d+e",,http://handschriftencensus.de/18178,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0012_b187_jpg.htm,,"19d auf Deutsch, e auf Latein; anschließendes Gebet 
 bzw. das auf 59r zwar zugeschrieben, aber nicht von ihr.
@@ -124,7 +124,7 @@ https://archive.org/details/h1katalogoverden02arnauoft/page/210",,,,50.00,7.2076
 md39,"Mainz, Martinus-Bibliothek, Hs. 33",1405,Unbekannt,"Mainz, Martinus-Bibliothek",Unterweisungsbüchlein,15. Jh.,südlicher Mittelrhein,70v–71v: Exzerpt,,http://www.handschriftencensus.de/24598,https://www.hss-census-rlp.ub.uni-mainz.de/mz-mb-hs-33/,,,,20.00,7.73320,50.13780
 md40,"Nürnberg, Germanisches Nationalmuseum, Hs. 60269",1550,Augustiner,"Nürnberg, Germanisches Nationalmuseum",Gebetbuch,"1. Hälfte 16. Jh. 
 (Borchling: Ende 15. Jh.)","Köln, wsl. St. Maria Magdalena, 
-Augustinerinnen","137r-139r: I, 43",,http://handschriftencensus.de/18480,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0058_b109_jpg.htm,http://dlib.gnm.de/item/Hs60269/html,,,,6.96390,50.92470
+Augustinerinnen","137v–139r: I, 43",,http://handschriftencensus.de/18480,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0058_b109_jpg.htm,http://dlib.gnm.de/item/Hs60269/html,,,,6.96390,50.92470
 md41,"Straßburg, National- und Universitätsbibliothek, 
 Ms. 1995 (früher L germ. 78.4°)",1425,Unbekannt,"Strasbourg, Bibliothèque Nationale et Universitaire","Sammelhandschrift aus mehreren Teilen, u.a. 
 Visionsberichte, Lieder",1428,–,"109v: III, 17",,http://www.handschriftencensus.de/3561,"https://archive.org/stream/cataloguegnr47fran#page/410/mode/2up;

@@ -1,6 +1,30 @@
-id,signature,year (map),order,library,category (desc),date (desc),location (desc),extract (desc),description,hsc,catalog,digital copy,additional info,origin,radius,long,lat
-nd1,"Amsterdam, Universitätsbibliothek, Cod. I E 34",1420,Sonstiges,"Amsterdam, Universitätsbibliothek","Sammelhandschrift; MH als Haupttext, Traktate",1. Hälfte 15. Jh.,"Heusden, Drittordensschwestern",1r-74r: Exzerpte,Mechthild als Zisterzienserin (vgl. Bromberg S. 191),http://handschriftencensus.de/19701,,,,,1.00,5.16080,51.72880
-nd2,"Amsterdam, Universitätsbibliothek, Cod. I F 1",1510,Sonstiges,"Amsterdam, Universitätsbibliothek","Mirakel, Exempelsammlung",1. Viertel 16. Jh. ,"Heusden, Drittordensschwestern","1r-79v: I, 29",,http://www.handschriftencensus.de/25347,"Stooker / Verbeij, Bd. II, S. 214 (Nr. 646)",,,,1.00,5.16080,51.72880
+a,signature,year (map),order,library,category (desc),date (desc),location (desc),extract (desc),description,hsc,catalog,digital copy,additional info,origin,radius,long,lat
+nd1,"Amsterdam, Universitätsbibliothek, Cod. I E 34",1420,Sonstiges,"Amsterdam, Universitätsbibliothek","Sammelhandschrift; MH als Haupttext, Traktate",1. Hälfte 15. Jh.,"Heusden, Drittordensschwestern","1r-74r: Exzerpte, u.a. <br>
+1r–3r: V, 30 <br>
+3v–4v: III, 29 <br>
+5r–v: III, 24, 23a <br>
+10r–v: IV, 56 <br>
+11r–14v: IV, 23, 37, 38, 36 <br>
+19v–20v: V, 11a, 12 <br>
+22r–23r: V, 16, 20 <br>
+23v: II, 43 <br>
+29r–31v: III, 1, 2, 10 <br>
+33r: III, 14 <br>
+34r–37v: III, 16 (anderer Schluss), 17, 27, 28 <br>
+44r–47v: IV, 16–18, 59b, 59e <br>
+50r–53v: I, 13–15, 7, 8b, 12 <br>
+54v–55r: I, 15 <br>
+55r–v: I, 19a <br>
+57r–v: I, 20b, 22a <br>
+59v–64v: I, 23a, 25a+b, 26a+e, 28, 29a <br>
+67r–v: I, 34a <br>",Mechthild als Zisterzienserin (vgl. Bromberg S. 191),http://handschriftencensus.de/19701,,,"Dolch, Walther: Die Verbreitung oberländischer Mystikerwerke im Niederländischen. Auf Grund der Handschriften dargestellt, Diss. Leipzig 1909, S. 25f.",,1.00,5.16080,51.72880
+nd2,"Amsterdam, Universitätsbibliothek, Cod. I F 1",1510,Franziskaner,"Amsterdam, Universitätsbibliothek","Mirakel, Predigten, Exempelsammlung",1. Viertel 16. Jh. ,"Heusden, Drittordensschwestern St. Catharina","37v–39r: I,29, 47 <br>
+55r: I, 29","Vorbesitzer: bis ca. 1616 Heusden, Tertiarinnen St. Catharina  <br>
+ab ca. 1616 reformierte Kirche, Heusden <br>
+bis 1855: Martinus Nijhoff (Den Haag) <br>
+ab 1855: Willem Moll ",http://www.handschriftencensus.de/25347,"Stooker / Verbeij, Bd. II, S. 214 (Nr. 646)",,,,1.00,5.16080,51.72880
+nd125,"Antwerpen, Recollecten (Minoriten), Hs. 134",1500,Franziskaner,"Antwerpen, Minoritenkonvent","Sammelhandschrift (Kurztexte, Exempel)",15. Jh. (?),"Antwerpen, Recollecten (Minoriten)","23r–v: IV, 52",Verbleib der Hs. unklar,–,"Catalogus van de fotoalbums van Middelnederlandse handschriften, 1938, S. 10f.",,,,,4.40550,51.22380
+nd120,"Averbode, Abdij der Norbertijnen, Arch. Nr. 317, Sectie IV",1470,Sonstiges,"Averbode, Abdij der Norbertijnen",Gebetbuch,15. Jh.,Südholland,"310r–311v: III, 17",,https://handschriftencensus.de/25181,"Meertens, Maria: De Godsvrucht in de Nederlanden. Naar handschriften van gebedenboeken der XVe eeuw, Teil VI: Beschrijvende catalogus der handschriften (Historische bibliotheek van godsdienstwetenschappen), o.O. [Brüssel/Antwerpen] 1934, S. 14-17.",,,,50.00,4.80790,52.00330
 nd3,"Berlin, Staatsbibliothek, Ms. germ. oct. 253",1500,Unbekannt,"Berlin, Staatsbibliothek",Horen- und Gebetbuch,15./Anf. 16. Jh.,Niederdeutschland,"515v-524v: I, 5d (Teil), 19d, e, 23",,http://handschriftencensus.de/9229,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0603c_b085_jpg.htm,,,,175.00,10.11500,52.62930
 nd4,"Berlin, Staatsbibliothek, Ms. germ. oct. 278",1505,Augustiner,"Berlin, Staatsbibliothek",Andachts- und Gebetbuch,16. Jh.,"Badersleben, Augustiner-Eremitinnen","182v: I, 47",,http://handschriftencensus.de/9236,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0603c_b094_jpg.htm,,,,0.20,10.88840,51.98470
 nd5,"Berlin, Staatsbibliothek, Ms. germ. oct. 326",1405,Unbekannt,"Berlin, Staatsbibliothek",Gebet- und Andachtsbuch,15. Jh.,Niederrhein,"109r-111r: I, 47",,http://handschriftencensus.de/9246,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0603c_b102_jpg.htm,,,,40.00,6.55720,51.35270
@@ -11,32 +35,53 @@ nd8,"Berlin, Staatsbibliothek, Ms. germ. oct. 396",1500,Benediktiner,"Berlin, St
 nd9,"Berlin, Staatsbibliothek, Ms. germ. qu. 1081",1420,Unbekannt,"Berlin, Staatsbibliothek",MH als Haupttext; ansonsten eine Geisterbeschwörung,1446,–,1ra-156rb: I-V,,http://handschriftencensus.de/11919,"http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0603b_b181_jpg.htm
 https://archive.org/stream/jahrbuchdesvere06spragoog#page/n23/mode/2up",,,,200.00,10.87960,53.03540
 nd10,"Bonn, Universitätsbibliothek, Cod. S 302",1475,Unbekannt,"Bonn, Universitätsbibliothek",MH als Haupttext; Mechthild von Schottland-Legende,1464,Rhein-Maas-Gebiet,1r-197r: I-V,,http://handschriftencensus.de/12818,https://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4041555,,,,15.00,6.32540,51.52100
-nd11,"Brüssel, Bibliothèque Royale, ms. 388",1450,Augustiner,"Brüssel, Bibliothèque Royale",Legenda aurea und Legenden,ca. 1450,Laienbrüderbibliothek des Regularkanonikerpriorats Rooklooster in Oudergem,"59vb-60va: I, 6a-c",,http://handschriftencensus.de/16384,http://www.archive.org/stream/cataloguedesmanu05brusuoft#page/398/mode/2up,,,,,4.44340,50.81370
-nd12,"Brüssel, Bibliothèque Royale, ms. 3040",1405,Dominikaner,"Brüssel, Bibliothèque Royale",Stundenbuch,15. Jh.,"Mechelen, Dominikaner (?)","1v-2v: I, 47",,http://handschriftencensus.de/23945,"http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/490/mode/2up
-Stooker/Verbeij, II, S. 307 (Nr. 917).",,,,2.00,4.48030,51.02940
+nd11,"Brüssel, Bibliothèque Royale, ms. 388",1450,Augustiner,"Brüssel, Bibliothèque Royale",Legenda aurea und Legenden,um 1450,"Laienbrüderbibliothek des Regularkanonikerpriorats Rooklooster in Oudergem <p>
+","59vb–60ra: I, 6a–c","Vorbesitzer: 1790–1795 Königliche Bibliothek Brüssel <br>
+1795–1815: Paris, Nationalbibliothek (vgl. f. 1r und 306v)",http://handschriftencensus.de/16384,http://www.archive.org/stream/cataloguedesmanu05brusuoft#page/398/mode/2up,,,,,4.44340,50.81370
+nd122,"Brüssel, Bibliothèque Royale, ms. 2945",1520,Augustiner,"Brüssel, Bibliothèque Royale","Gebetbuch (Seuse, Franziskus van Dommelen, Bernhard) ",16. Jh.,Regularkanoniker Corsendonk (Turnhout),183v–194r: MH zugeschriebenes Stück,"Vorbesitzer: Anna Somers (vgl. 2r) <br>
+Paris, Nationalbibliothek (vgl. 3r, 219v)",–,https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000003673,,,,,5.01030,51.28430
+nd12,"Brüssel, Bibliothèque Royale, ms. 3040",1455,Augustiner,"Brüssel, Bibliothèque Royale",Stundenbuch (mit Kalender der Diözese Cambrai),15. Jh.,"Mechelen, St. Maria von Bethanien, Augustiner-Chorfrauen","1v–2v: I, 47","Kalender der Diözese Cambrai deutet evtl. auf eine Enstehung dort hin, bevor die Hs. nac hmechelen kam; <br>
+seit ca. 1790 in Brüssel",http://handschriftencensus.de/23945,"http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/490/mode/2up
+Stooker/Verbeij, II, S. 307 (Nr. 917).",,,,,4.48270,51.02930
 nd13,"Brüssel, Bibliothèque Royale, ms. 4407-08",1505,Unbekannt,"Brüssel, Bibliothèque Royale",Gebetbuch,16. Jh.,Dendermonde,"116r-v: I, 43",,–,"Stooker/Verbeij, II, S. 109 (Nr. 303).",,,,2.00,4.10510,51.02870
-nd14,"Brüssel, Bibliothèque Royale, ms. 10763-64",1505,Unbekannt,"Brüssel, Bibliothèque Royale","Gebetbuch, Sammelhandschrift",16. Jh.,–,91r-93v: Exzerpt,,–,http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/556/mode/2up,,,,200.00,10.72960,53.03640
-nd15,"Brüssel, Bibliothèque Royale, ms. 11171",1415,Unbekannt,"Brüssel, Bibliothèque Royale",Gebetbuch (?),1. Hälfte 15. Jh.,Nord-/Ost-Brabant,"123r-v (?): I, 19e",,http://handschriftencensus.de/21591,"Maria Meertens, De Godsvrucht in de Nederlanden, Teil VI, S. 44-54 (Nr. 14).",,,,15.00,5.53980,51.61650
-nd16,"Brüssel, Bibliothèque Royale, ms. 11231-36",1530,Franziskaner,"Brüssel, Bibliothèque Royale",Gebet- und Andachtsbuch,ca. 1530,"St. Andreas, Maagdendries 
-(bei Maastricht)","212v-230v: III (I?), 17, III (I?), 36; II, 
+nd14,"Brüssel, Bibliothèque Royale, ms. 10763-64",1505,Unbekannt,"Brüssel, Bibliothèque Royale","Gebetbuch, Sammelhandschrift",16. Jh.,–,"91r–93v: I, 39 (?)",seit ca. 1790 in der Brüsseler Bibliothek,–,http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/556/mode/2up,,,,200.00,10.72960,53.03640
+nd15,"Brüssel, Bibliothèque Royale, ms. 11171",1415,Unbekannt,"Brüssel, Bibliothèque Royale","Gebetbuch (Eckbert von Schönau, Thomas von Kempen)",1. Hälfte 15. Jh.,Nord-/Ost-Brabant,"123r–125r: I, 19e",seit ca. 1790 in der Brüsseler Bibliothek,http://handschriftencensus.de/21591,"Maria Meertens, De Godsvrucht in de Nederlanden, Teil VI, S. 44–54 (Nr. 14).",,,,15.00,5.53980,51.61650
+nd16,"Brüssel, Bibliothèque Royale, ms. 11231-36",1530,Franziskaner,"Brüssel, Bibliothèque Royale","Gebet- und Andachtsbuch (u.a. Seuse, Eckbert von Schönau)",ca. 1530,"St. Andreas, Maagdendries 
+(bei Maastricht)","212v-230v: III, 17, 36; II, 
 32, 27; III, 19; IV, 58; II, 36; III, 48; 
 IV, 23; IV, 24, 25, 26, 28, 29, 30,
  32a+b, 35
-","von Zieger auf 1476 datiert; Zieger geht am Anfang von Buch III aus, Stooker/Verbeij von Buch I; Kapitelangabe weicht von der Edition ab",http://handschriftencensus.de/20806,"Stooker / Verbeij, Bd. II, S. 297f. (Nr. 892)",,,,,5.68910,50.85470
+","von Zieger auf 1476 datiert; Zieger geht am Anfang von Buch III aus, Stooker/Verbeij von Buch I; Kapitelangabe weicht von der Edition ab <p>
+
+Vorbesitzer: bis 1794 Brüssel, Comité de la caisse de religion <br>
+1794 bis 1815 Paris, Bibliothèque nationale de France <br>
+seit 1815 Königliche Bibliothek Brüssel",http://handschriftencensus.de/20806,"Stooker / Verbeij, Bd. II, S. 297f. (Nr. 892); <br>
+ https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000003829",,,,,5.68910,50.85470
 nd17,"Brüssel, Bibliothèque Royale, ms. 11797",1465,Augustiner,"Brüssel, Bibliothèque Royale","Thomas von Aquin, Legenden, Schwester Katrei",ca. 1465,"Bergen op Zoom, St. Margaretha, 
 Augustinerinnen","240-243v: III, 1",,http://www.handschriftencensus.de/18553,"Stooker / Verbeij, Bd. II, S. 60f. (Nr. 161)
 http://www.eckhart.de/Textzeugen/bruessel.htm#Br12",,,,3.00,4.28730,51.49430
 nd18,"Brüssel, Bibliothèque Royale, ms. 12078",1496,Augustiner,"Brüssel, Bibliothèque Royale",Stundenbuch,1496,"Augustiner-Chorherrenstift 
 bei Leeuwarden („te Regum“)","129v-132v: I, 47, 43",,http://handschriftencensus.de/25189,http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/494/mode/2up,,,,5.00,5.81990,53.20660
-nd19,"Brüssel, Bibliothèque Royale, ms. 12079",1405,Unbekannt,"Brüssel, Bibliothèque Royale",Stundenbuch,15. Jh.,Südholland,"157vb-158va: I, 43",,http://handschriftencensus.de/25190,http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/494/mode/2up,,,,15.00,4.54170,51.93790
+nd19,"Brüssel, Bibliothèque Royale, ms. 12079",1505,Unbekannt,"Brüssel, Bibliothèque Royale",Stundenbuch,16. Jh.,Südholland,"157vb–158va: I, 43","Vorbesitzer: 17. Jh. Dendermonde, Birgittinnen <br>
+Rugge, St. Elisabeth, Augustiner-Chorfrauen <br>
+17. Jh. (?) Ghertrut van Sonnevelt Bronchorst <br>
+Charles Pierre Joseph Le Candèle <br>
+seit 1830 in der Brüsseler Bibliothek",http://handschriftencensus.de/25190,http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/494/mode/2up,,,,40.00,4.54170,51.93790
 nd20,"Brüssel, Bibliothèque Royale, ms. 12080",1405,Unbekannt,"Brüssel, Bibliothèque Royale",Stundenbuch,15.Jh. (vor 1414?),–,"121r-122r: I, 47",Zur Datierung vgl. Zieger,http://handschriftencensus.de/25191,http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/496/mode/2up,,,,200.00,10.46960,53.03640
-nd21,"Brüssel, Bibliothèque Royale, ms. 19551",1405,Unbekannt,"Brüssel, Bibliothèque Royale",Gebetbuch,15. Jh.,–,"47r-v: III, 17
-50v-51v: I, 43",,http://handschriftencensus.de/22197,http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/540/mode/2up,,,,200.00,10.56960,53.03240
+nd21,"Brüssel, Bibliothèque Royale, ms. 19551",1485,Unbekannt,"Brüssel, Bibliothèque Royale",Stundenbuch (mit Kalender der Diözese Utrecht),4. Viertel 15. Jh.,Diözese Utrecht (Kalender),"47r–v: III, 17 <br>
+50v–51v: I, 43","Vorbesitzer: 16. Jh. ""De Stembor"" <br>
+1626: Pieter Cornelissen aus Roosendaal <br>
+bis 1846: Jan Frans Willems",http://handschriftencensus.de/22197,"http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/540/mode/2up <p>
+https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000003931 ",,,,40.00,5.04540,52.10030
 nd22,"Brüssel, Bibliothèque Royale, ms. 21892",1405,Franziskaner,"Brüssel, Bibliothèque Royale",Gebetbuch,15. Jh.,"Bree, Flandern, 
 Franziskanerinnen (?)","laut Zieger entweder zwischen 13v-25v oder 
 61v-72r Exzerpte",,http://handschriftencensus.de/24296,http://www.archive.org/stream/cataloguedesmanu03brusuoft#page/468/mode/2up,,,,2.00,5.59690,51.14030
-nd23,"Brüssel, Bibliothèque Royale, ms. 21893",1480,Franziskaner,"Brüssel, Bibliothèque Royale",Stundenbuch,1482,"St. Mathias in Sint-Truiden, 
-Franziskaner","156r-158v: I, 47",evtl. Begarden-Provenienz,http://handschriftencensus.de/22198,"http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/498/mode/2up
+nd23,"Brüssel, Bibliothèque Royale, ms. 21893",1482,Franziskaner,"Brüssel, Bibliothèque Royale",Stundenbuch,1482,"St. Mathias in Sint-Truiden, 
+Franziskaner","156r–158v: I, 47","Vorbesitzer: 1804–1814, Henderikus van der Beken, Voorst (vgl. f. 56v und 122v) <br>
+ab 1814 Laurens Meyers (vgl. f. 150v)  <br>
+19. Jh.: Petrus Leopolod van Alstein <br>
+seit 1863 in der Brüsseler Bibliothek
+",http://handschriftencensus.de/22198,"http://www.archive.org/stream/cataloguedesmanu01brusuoft#page/498/mode/2up
 Stooker / Theo Verbeij, Bd. II, S. 377 (Nr. 1133)",,,,3.00,5.18450,50.81920
 nd24,"Brüssel, Bibliothèque Royale, ms. II 1302",1590,Augustiner,"Brüssel, Bibliothèque Royale",MH als Haupttext; auch Katharinenmirakel,1592,"St. Elisabeth /Sint Elisabeth op 
 de berg Sion, Brüssel, 
@@ -45,7 +90,9 @@ http://www.archive.org/stream/cataloguedesmanu03brusuoft#page/268/mode/2up",,,,1
 nd25,"Brüssel, Bibliothèque Royale, ms. IV 138",1490,Unbekannt,"Brüssel, Bibliothèque Royale","Sammelhandschrift; Übersetzung der Legenda aurea, 
 Legenden, St. Georgener Predigten",ca. 1490,–,"215vb-216rb: I, 26 (Anfang)",,http://handschriftencensus.de/7458,"Stooker / Verbeij, Bd. II, S. 289f. (Nr. 868)",,,,200.00,9.97460,52.83440
 nd26,"Brüssel, Bibliothèque Royale, ms. IV 242",1405,Unbekannt,"Brüssel, Bibliothèque Royale",Gebetbuch,15. Jh.,–,"104r: IV, 47",,–,"Stooker / Verbeij, Bd. II, S. 207f. (Nr. 628)",,,,200.00,11.07560,53.03640
-nd27,"Brüssel, Bibliothèque Royale, ms. IV 436",1515,Unbekannt,"Brüssel, Bibliothèque Royale",?,Anf. 16. Jh.,–,"255v-259v: IV, 59a+b (Fragment)",,http://handschriftencensus.de/20006,–,,,,200.00,11.17660,52.93740
+nd27,"Brüssel, Bibliothèque Royale, ms. IV 436",1450,Unbekannt,"Brüssel, Bibliothèque Royale",Sammelhandschrift (u.a. Jordan von Quedlinburg),ca. 1450–1455,Brabant,"255v–259v: IV, 59a+b (Fragment)","Vorbesitzer: Tienen, Franziskanerinnen <br>
+Tienen, Dominikaner <br>
+seit 1966 in der Brüsseler Bibliothek",http://handschriftencensus.de/20006,"Jan Deschamps / Herman Mulder, Inventaris van de Middelnederlandse handschriften van de Koninklijke Bibliotheek van België, 2005, S. 61–63. ",,,,50.00,5.14000,51.58970
 nd28,"Brüssel, Bibliothèque Royale, ms. IV 676",1505,Unbekannt,"Brüssel, Bibliothèque Royale","Benediktsregel, Gregor der Große, Ludolf von Sachsen",ca. 1500,–,"46r-48r: I, 19",,http://www.handschriftencensus.de/25246,"Stooker / Verbeij, Bd. II, S. 160 (Nr. 469)",,,,200.00,10.72760,53.03570
 nd29,"Cambridge, University Library, MS Add. 2876",1500,Unbekannt,"Cambridge, University Library","Sammelhandschrift, Gebete/Geistliche Traktate, 
 z.B. Seuse",Ende 15./ Anf. 16. Jh.,–,"47r-49r: I, 19d+e",,http://handschriftencensus.de/22224,https://archive.org/stream/priebschhandschr01goog#page/n43/mode/2up,,,,200.00,10.61860,53.03580
@@ -64,24 +111,31 @@ nd35,"Darmstadt, Universitäts- und Landesbibliothek, Hs. 1936",1510,Franziskane
 Franziskanerinnen ","115r-116v: I, 43",,http://handschriftencensus.de/4181,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0012_b119_jpg.htm,,,,3.00,6.37470,51.61040
 nd36,"Darmstadt, Universitäts- und Landesbibliothek, Hs. 1938",1520,Franziskaner,"Darmstadt, Universitäts- und Landesbibliothek",Gebete und Andachten,um 1520,"St. Andreas, Sonsbeck, 
 Franziskanerinnen ","54v-62v: I, 19d+e",,http://handschriftencensus.de/18183,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0012_b107_jpg.htm,,,,3.00,6.37470,51.61040
-nd37,"den Haag, Königliche Bibliothek, Cod. 72 J 8",1435,Unbekannt,"Den Haag, Königliche Bibliothek",Gebetbuch,1437,"St. Dionysius, Amsterdam","179r-181v: I, 46, 47
- 198v-199r: IV, 7",Privatgebetbuch von Lucie Jan van Ghelre,http://handschriftencensus.de/16291,"Stooker/ Verbeij, Bd. II, S. 35f. (Nr. 82)",,,,6.00,4.89540,52.37480
-nd38,"den Haag, Königliche Bibliothek, Cod. 73 G 29",1450,Sonstiges,"Den Haag, Königliche Bibliothek","Gebetbuch, Exempel, Gedichte, Dicta, Schwester Katrei",ca. 1400 (Teil ca. 1470),"Weesp, St. Johannes /Oude Hof, 
-Tertiarinnen (?)","51v-58r: I, 5d, 46, 11, 43, 18a, 11",,http://handschriftencensus.de/20604,"http://www.eckhart.de/Textzeugen/denhaag.htm#Ha8;
+nd37,"den Haag, Königliche Bibliothek, Cod. 72 J 8",1437,Augustiner,"Den Haag, Königliche Bibliothek",Gebetbuch,1437,"St. Dionysius, Amsterdam","179r–181v: I, 46, 47 <br>
+ 198v–199r: IV, 7","Geschrieben von den Regularkanonikerinnen von St. Mary & St. Dionysius (ter Lelie/Nieuwe Nonnen); Privatgebetbuch von Lucie Jan van Ghelre <br>
+Vorbesitzer: bis 1828 Jacobus Koning",http://handschriftencensus.de/16291,"Stooker/ Verbeij, Bd. II, S. 35f. (Nr. 82)",,,,,4.89540,52.37480
+nd38,"den Haag, Königliche Bibliothek, Cod. 73 G 29",1450,Franziskaner,"Den Haag, Königliche Bibliothek","Gebetbuch, Exempel, Gedichte, Dicta, Schwester Katrei",ca. 1400 (Teil ca. 1470),"Weesp, St. Johannes /Oude Hof, 
+Tertiarinnen ","51v–58r: I, 5d, 46, 11, 43, 18a, 11","Vorbesitzer: Sijmon Bruijnen van Paddenburch (vgl. Vorsatzblatt) <br>
+17. Jh. Gelis Derks van den Bosch (vgl. Vorsatzblatt) <br>
+17. Jh. Gerrit Claeszn Looijer (vgl. Vorsatzblatt)",http://handschriftencensus.de/20604,"http://www.eckhart.de/Textzeugen/denhaag.htm#Ha8;
 Stooker / Verbeij, Bd. II, S. 430f. (Nr. 1298)",,,,0.50,5.04050,52.30770
-nd39,"den Haag, Königliche Bibliothek, Cod. 73 G 33",1505,Sonstiges,"Den Haag, Königliche Bibliothek","Exempla, Traktate",ca. 1500,"Weesp, St. Johannes /Oude Hof, 
-Tertiarinnen (?)","27v-29v: IV, 24",,http://www.handschriftencensus.de/15833,"Stooker/ Verbeij, Bd. II, S. 431f. (Nr. 1302); 
+nd39,"den Haag, Königliche Bibliothek, Cod. 73 G 33",1505,Franziskaner,"Den Haag, Königliche Bibliothek","Exempla, Traktate",ca. 1500,"Weesp, St. Johannes /Oude Hof, 
+Tertiarinnen ","27v–29v: IV, 24",,http://www.handschriftencensus.de/15833,"Stooker/ Verbeij, Bd. II, S. 431f. (Nr. 1302); 
 http://www.eckhart.de/Textzeugen/denhaag.htm#Ha9",,,,0.50,5.04050,52.30770
 nd40,"den Haag, Königliche Bibliothek, Cod. 74 F 2",1480,Sonstiges,"Den Haag, Königliche Bibliothek",Gebetbuch,1481,"Naarden, Drittordensschwestern",198r-199r: Gebete,,–,"Stooker/ Verbeij, Bd. II, S. 313 (Nr. 935)",,,,2.00,5.16180,52.29520
 nd41,"den Haag, Königliche Bibliothek, Cod. 75 G 10",1475,Unbekannt,"Den Haag, Königliche Bibliothek",MH als Haupttext,2. Hälfte 15. Jh.,–,1ra-86ra + 86rb-95va: I-V?,Mechthild als Zisterzienserin,–,"Catalogus codicum manuscriptorum Bibliothecae Regiae, Vol. I: Libri theologici, 
 Hagae Comitum 1922, S. 179f.",,,,200.00,10.77460,53.03580
 nd42,"den Haag, Königliche Bibliothek, Cod.  129 G 34",1475,Unbekannt,"Den Haag, Königliche Bibliothek",MH als Einzeltext,2. Hälfte 15. Jh.,Mittel-/Nordholland,1r-93v: I-V?,Mechthild als Zisterzienserin,–,"Catalogus codicum manuscriptorum Bibliothecae Regiae, Vol. I: Libri theologici, 
 Hagae Comitum 1922, S. 180f.",,,,100.00,6.09460,52.52640
+nd121,"den Haag, Königliche Bibliothek, Cod.  133 F 20",1470,Unbekannt,"Den Haag, Königliche Bibliothek",Gebetbuch (u.a. Seuse),2. Hälfte 15. Jh.,Holland,"162v–171v: III, 4 (?)","Besitzerin im 16. oder 17. Jh.: ""Lijsbet Jansdochter"" (vgl. Vorderspiegel) <br> 
+1897 mit der Sammlung Acquoi in die Bibliothek gelangt <br>
+derselbe zugeschriebene Text auch 
+in St. Petersburg, Kaiserliche Öffentliche Bibliothek, Goll. O. I.2",https://handschriftencensus.de/22246,https://www.mmdc.nl/static/site/search/detail.html?recordId=1144#r1144,,,,50.00,4.57630,52.19560
 nd43,"den Haag, Königliche Bibliothek, Cod.  135 F 5",1430,Dominikaner,"Den Haag, Königliche Bibliothek",MH als Haupttext,2. Viertel 15. Jh.,"Nijmegen, Dominikaner 
 (zumindest später dort aufbewahrt)",5r-137r: I-V?,,http://handschriftencensus.de/23176,–,,,,3.00,5.84480,51.83940
 nd44,"Dresden, Landesbibliothek, Mscr. App. 1343",1585,Unbekannt,"Dresden, Landesbibliothek",Gebetbuch,1580er-Jahre,Ostflandern,"99v–101r: I, 18e (?)",,http://www.handschriftencensus.de/18924,http://www.manuscripta-mediaevalia.de/#|6,https://digital.slub-dresden.de/werkansicht/dlf/11414/1/,,,40.00,5.13860,51.07330
 nd45,"Dresden, Landesbibliothek, Mscr. M 291",1525,Benediktiner,"Dresden, Landesbibliothek",Gebetbuch,1. Drittel 16. Jh.,"Selwerd (Siloë) bei Groningen, 
-Benediktinerinnen","85-86v: I, 43
+Benediktinerinnen","85-86v: I, 43 <br>
 89r-v: I, 5b, 23",Schreiberin: Selwerder Nonne Ghese ten Broeke,http://handschriftencensus.de/14612,http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22obj%2031600307%22&dmode=doc#|4,http://digital.slub-dresden.de/werkansicht/dlf/7901/1/,,,0.30,6.55110,53.23520
 nd46,"Düsseldorf, Universitäts- und Landesbibliothek, Ms. C 25",1475,Kreuzherren,"Düsseldorf, Landes- und Staatsbibliothek",Sammelhandschrift,um 1475/80,"Marienfrede, Kreuzbrüderkonvent","32vb-33rb: I, 47",,http://handschriftencensus.de/12774;,"Agata Mazurek, Die mittelalterlichen Handschriften der Signaturengruppe C in der Universitäts- und 
 Landesbibliothek Düsseldorf, Wiesbaden 2012, S. 159-169. ",,,,,6.59160,51.77170
@@ -97,10 +151,14 @@ nd50,"Greifswald, Universitätsbilbiothek, nd. Hs. 20",1525,Franziskaner,"Greifs
 nd51,"Hamburg, Staats- und Universitätsbibliothek, Cod. theol 2194",1500,Klarissen,"Hamburg, Staats- und Universitätsbibliothek",Aszetisch-mystische Sammelhandschrift,"2. Hälfte 15. Jh. und 2. 
 Hälfte 16. Jh. (MH-Teil 
 um 1535-45)","Mechthild-Teil (I) für Klarissen 
-bestimmt; südliche Niederlande","59v-65r: III, 24, 23; I, 19c; IV, 26, 51, auf 62r 
-Stück nicht von Mechthild; IV, 56, 30; III, 21",,http://handschriftencensus.de/3493,"Nilüfer Krüger, Die theologischen Handschriften der Staats- und Universitätsbibliothek Hamburg, 
+bestimmt; südliche Niederlande","59r–65v: III, 24, 23; I, 19c; IV, 26, 51, auf 62r 
+Stück nicht von Mechthild; IV, 56, 30; III, 21","Vorbesitzer: 16. Jh. Machiel, Tochter des Cloet, Mechelen (vgl. f. 267v) <br>
+18. Jh.: Johann Christian Wolf (1690–1770) <br>
+im 19. Jh. wohl in Elberfeld <br>
+",http://handschriftencensus.de/3493,"Nilüfer Krüger, Die theologischen Handschriften der Staats- und Universitätsbibliothek Hamburg, 
 Bd. 3, Stuttgart 1993, S. 234-238.
 http://www.eckhart.de/Textzeugen/hamburg.htm#H3",,,,50.00,5.19190,51.70980
+nd119,"Hannover, Landesbibliothek, MS. I 239",1524,Unbekannt,"Hannover, Landesbibliothek","Sammelhandschrift, u.a. Legenden und Exempel",1524,norddeutsches Frauenkloster,"224v–226r: I, 42",,https://handschriftencensus.de/13254,http://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0056_a087_jpg.htm,http://digitale-sammlungen.gwlb.de/index.php?id=6&tx_dlf%5Bid%5D=10021&tx_dlf%5Bpage%5D=1,,,100.00,10.15370,52.74910
 nd52,"Hohenfurt / Vyšší Brod (Böhmen), Stiftsbibliothek, Ms. 1",1405,Zisterzienser,"Hohenfurt / Vyšší Brod (Böhmen), Stiftsbibliothek",Gebetbuch,15. Jh.,Niederrhein,"223v: I, 43",,http://handschriftencensus.de/3755,http://www.archive.org/stream/xenia0202bernargoog#page/n236/mode/1up,,,,40.00,6.55720,51.35270
 nd53,"Katwijk, R.K. Gymnasium",,Unbekannt,"Katwijk, R.K. Gymnasium",Gebetbuch (?),,–,"S. 218: I, 47
  S. 298:  I, 42
@@ -112,31 +170,51 @@ nd54,"Köln, Historisches Archiv der Stadt, Best. 7010 (W) 1",1405,Klarissen,"K�
 35v-36r: I, 19g
 207r-208v: I, 25b","""MH zugeschriebene Stücke auf 24r, 40r-v, 44r-45r, 
 46v-48r, 56r-v, 57r-58r, 157r-158r""",http://handschriftencensus.de/13030,http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4052055,,,,0.20,6.94770,50.94140
-nd55,"Köln, Historisches Archiv der Stadt, Best. 7010 (W) 25",1480,Unbekannt,"Köln, Historisches Archiv der Stadt",Gebetbuch,1487,Amsterdam (?),"69r-74v: I, 47 (nur?)",,http://handschriftencensus.de/13037,http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4052063,(Link des Hss.-Census auf Digitalisat funktioniert nicht),,,6.00,4.89560,52.37420
+nd55,"Köln, Historisches Archiv der Stadt, Best. 7010 (W) 25",1480,Franziskaner,"Köln, Historisches Archiv der Stadt",Gebetbuch,1487,"St. Andreas, Maagdendries 
+(bei Maastricht)","67r–69r: I, 47",Schreiberin: Katrijn van Rade,http://handschriftencensus.de/13037,http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4052063,(Link des Hss.-Census auf Digitalisat funktioniert nicht),,,,5.68910,50.85470
 nd56,"Köln, Historisches Archiv der Stadt, Best. 7010 (W) 53",1505,Unbekannt,"Köln, Historisches Archiv der Stadt",Gebetbuch,um 1500,Frauenkloster,"100r-102v: I, 19d+e",,http://handschriftencensus.de/13044,http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4052070,,,,200.00,11.27890,52.83490
 nd57,"Köln, Historisches Archiv der Stadt, Best. 7020 (W*) 254",1405,Unbekannt,"Köln, Historisches Archiv der Stadt",Gebetbuch,15. Jh.,Niederländisch,"19r-20v: I, 47",,http://handschriftencensus.de/13148,http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/4052252,,,,150.00,6.04690,52.16360
-nd58,"Kopenhagen, Königl. Bibl., GKS Cod. 3422,8°",1405,Unbekannt,"Kopenhagen, Königliche Bibliothek",Gebetbuch,15. Jh.,Mittelniederländisch,"53v-55r: I, 47",,http://handschriftencensus.de/21077,http://www.archive.org/stream/nachrichtenkniglgesellschaftgoett1900goog#page/n501/mode/1up,,,,40.00,5.74390,52.17850
+nd58,"Kopenhagen, Königl. Bibl., GKS Cod. 3422,8°",1440,Unbekannt,"Kopenhagen, Königliche Bibliothek",Gebetbuch,15. Jh.,Mittelniederländisch,"53v–55r: I, 47",,http://handschriftencensus.de/21077,http://www.archive.org/stream/nachrichtenkniglgesellschaftgoett1900goog#page/n501/mode/1up,,,,40.00,5.74390,52.17850
 nd59,"Leeuwarden, Leeuwarden, Provinciale Bibliotheek, ms. 685",1425,Dominikaner,"Leeuwarden, Provinciale Bibliotheek",MH als Haupttext; daneben Seuse und Tochter-Sion-Traktat,1. Hälfte 15 Jh.,"Kloster Wiijk bei Duurstede, 
-Dominikanerinnen (?)",1a-145b: Buch I,Zieger von älteren Katalogen MM zugeschrieben,http://handschriftencensus.de/25312,"Stooker/Verbeij, Bd. II, S. 437f. (Nr. 1321).",,,,,5.34670,51.97280
-nd60,"Leiden, Universitätsbibliothek, LTK 294",1505,Unbekannt,"Leiden, Universitätsbibliothek",Gebetbuch,ca. 1500,Holland,"130r-131r: I, 43",,–,"Lieftinck Leiden, S. 294",,,,150.00,6.04690,52.16360
-nd61,"Leiden, Universitätsbibliothek, LTK 301",1525,Unbekannt,"Leiden, Universitätsbibliothek",Andachtsbuch,1. Hälfte 16. Jh.,–,"1r-4v: III, 29 (Teil)",,–,"Lieftinck Leiden, S. 118",,,,200.00,10.57950,53.13530
+Dominikanerinnen (?)",1a-145b: I–V,Zieger von älteren Katalogen MM zugeschrieben,http://handschriftencensus.de/25312,"Stooker/Verbeij, Bd. II, S. 437f. (Nr. 1321).",,,,,5.34670,51.97280
+nd60,"Leiden, Universitätsbibliothek, LTK 294",1487,Unbekannt,"Leiden, Universitätsbibliothek",Gebetbuch (mit Kalender der Diözese Utrecht),4. Viertel 15. Jh.,Diözese Utrecht / Frauenkloster (?),"130r-131r: I, 43","Besitzeintrag f. 176r: ""Suster Wijburch Gherijts"" <br>
+Vorbesitzer: bis 1789 Zacharias Henric Alewijn",–,https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000001326,,,,40.00,4.95480,52.12800
+nd61,"Leiden, Universitätsbibliothek, LTK 301",1525,Unbekannt,"Leiden, Universitätsbibliothek",Andachtsbuch,1. Hälfte 16. Jh.,Niederlande,"1r–5r: III, 29 (Teil)",,–,"Lieftinck Leiden, S. 118",,,,80.00,5.33930,52.25190
 nd62,"Leiden, Universitätsbibliothek, LTK 304",1550,Augustiner,"Leiden, Universitätsbibliothek",Andachten und Gebete,ca. 1550,"Brabant, Augustinerinnenkloster","181r-186r: III, 1",,–,"Lieftinck Leiden, S. 122",,,,50.00,5.14000,51.58970
-nd63,"Leiden, Universitätsbibliothek, LTK 306",1500,Unbekannt,"Leiden, Universitätsbibliothek",Andachtsbuch,"1. Hälfte 16. Jh./1450 
-(MH-Teil)",Nord-/Westholland,"137r-143v: I, 43; III, 5",,–,"Lieftinck Leiden, S. 127",,,,150.00,5.63520,52.75720
-nd64,"Leiden, Universitätsbibliothek, LTK 317",1505,Unbekannt,"Leiden, Universitätsbibliothek",Passionsbuch,ca. 1500,Holland,"109r-112v: I, 19e+d",,http://handschriftencensus.de/23187,"Lieftinck Leiden, S. 138",,,,150.00,6.04690,52.16360
-nd65,"Leiden, Universitätsbibliothek, LTK 321",1525,Unbekannt,"Leiden, Universitätsbibliothek",Gebetbuch,1. Hälfte 16. Jh.,Frauenkloster „in die ljsselstreek“,"17v-22r: I, 19e+d",,–,"Lieftinck Leiden, S. 150",,,,5.00,6.40540,51.91120
+nd63,"Leiden, Universitätsbibliothek, LTK 306",1500,Franziskaner,"Leiden, Universitätsbibliothek","Andachtsbuch (Gebete, Traktate)","1. Hälfte 16. Jh./1450 
+(MH-Teil)","Warmond, Franziskaner-Tertiarinnen St. Ursula","137r–143v: I, 43; III, 5","Schreiberin: Margarete, Tochter des Hieronymus (vgl. f. 119r) <p>
+Vorbesitzer: Marbijnt (?), Tochter des Viktor (f. 175v) <br>
+um 1700 Aernout Jansen van Harderwijck (vgl. f. IVr) <br>
+Adriaan Kluuit (1735–1807) <br>
+seit 1861 Universitätsbibliothek Leiden",–,"Lieftinck Leiden, S. 127;  <br> 
+https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000001338",,,,,4.49970,52.20110
+nd64,"Leiden, Universitätsbibliothek, LTK 317",1505,Unbekannt,"Leiden, Universitätsbibliothek",Passionsbuch,ca. 1500,Holland,"109r-112v: I, 19e+d","Vorbesitzer: unbekannte Frau (vgl. 324r) <br>
+bis 1838: Johannes T. Boden Nijenhuis <br>
+seit 1838: Bibliothek Leiden ",http://handschriftencensus.de/23187,"Lieftinck Leiden, S. 138",,,,70.00,4.92330,52.19140
+nd65,"Leiden, Universitätsbibliothek, LTK 321",1525,Unbekannt,"Leiden, Universitätsbibliothek",Gebetbuch,1. Hälfte 16. Jh.,Frauenkloster „in die ljsselstreek“,"18r–22r: I, 19d+e",seit 1837 in der Leidener Bibliothek,–,"Lieftinck Leiden, S. 150",,,,5.00,6.40540,51.91120
 nd66,"Leiden, Universitätsbibliothek, LTK 348",1475,Unbekannt,"Leiden, Universitätsbibliothek","Sammelhandschrift, Kurztraktate, Gebete",2. Hälfte 15. Jh.,Holland,"20v-23v: III, 1 (Teil)
-24r-26v: IV, 59b ",,http://handschriftencensus.de/25471,"Lieftinck Leiden, S. 191",,,,150.00,6.04690,52.16360
-nd67,"Leiden, Universitätsbibliothek, LTK 349",1425,Unbekannt,"Leiden, Universitätsbibliothek","Sammelhandschrift, Kurztraktate, Gebete",1. Hälfte 15. Jh.,Nord-/Ostholland,"95r-97v: I, 19d+e",,–,"Lieftinck Leiden, S. 195",,,,40.00,6.75050,53.00610
-nd68,"Leiden, Universitätsbibliothek, LTK 356",1475,Unbekannt,"Leiden, Universitätsbibliothek",Andachtsbuch,2. Hälfte 15. Jh.,Holland,"187r-188r: I, 47",,http://handschriftencensus.de/4183,"Lieftinck Leiden, S. 205",,,,150.00,6.04690,52.16360
+24r-26v: IV, 59b ",,http://handschriftencensus.de/25471,"Lieftinck Leiden, S. 191",,,,70.00,4.82440,52.19140
+nd67,"Leiden, Universitätsbibliothek, LTK 349",1425,Unbekannt,"Leiden, Universitätsbibliothek","Sammelhandschrift (Kurztraktate, Gebete)",1. Hälfte 15. Jh.,Nord-/Ostholland,"95v–97v: I, 19d+e","Vorbesitzer: Jan Jacob Schultens (1716–1778) <br>
+bis 1845: Pastor Kervel <br>
+seit 1846 in der Leidener Bibliothek",–,"Lieftinck Leiden, S. 195 <br>
+https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000001375",,,,60.00,6.32624,52.52510
+nd68,"Leiden, Universitätsbibliothek, LTK 356",1475,Unbekannt,"Leiden, Universitätsbibliothek",Andachtsbuch,2. Hälfte 15. Jh.,Holland,"187r-188r: I, 47",,http://handschriftencensus.de/4183,"Lieftinck Leiden, S. 205",,,,70.00,4.70080,52.21490
 nd69,"Leiden, Universitätsbibliothek, BPL 2692",1480,Unbekannt,"Leiden, Universitätsbibliothek",MH als Haupttext; andere geistliche Traktate,ca. 1480,"Kloster St. Agnes, Arnheim/
 bei Arnheim (?)",152ra-275ra: I-V ,,http://handschriftencensus.de/21614,http://www.archive.org/stream/nachrichten1913akaduoft#page/128/mode/2up,,,,,5.91260,51.98050
-nd70,"Leuven/Löwen, Universitätsbibliothek, Cod. D 380",1490,Unbekannt,"Leuven/Löwen, Universitätsbibliothek",Gebetbuch (?),Ende 15. Jh.,Mittelflämisch,"88v-90v: III, 17","laut Zieger Ähnlichkeit zu Brüssel, Hs. 19551",http://handschriftencensus.de/25205,–,,,,50.00,4.32480,51.08590
+nd70,"Leuven/Löwen, Universitätsbibliothek, Cod. D 380",1526,Unbekannt,"Leuven/Löwen, Universitätsbibliothek",Gebetbuch (?),1526,Mittelflämisch,"88v–89v: III, 17","laut Zieger Ähnlichkeit zu Brüssel, Hs. 19551 <p>
+Schreiber: Christianus Longus (vgl. Kolophon) <p>
+Vorbesitzer: L. de Ridder ",http://handschriftencensus.de/25205,"Maria Meertens, De Godsvrucht in de Nederlanden, 1934, S. 182–190.",,,,50.00,4.32480,51.08590
 nd71,"Leuven /Löwen, Universitätsbibliothek, Cod. G 70 (verbrannt)",1500,Unbekannt,"Leuven/Löwen, Universitätsbibliothek","Gebetbuch, Texte zur Passion",Ende 15. Jh./ Anf. 16. Jh.,–,"1v-4r: I, 23; III, 8",,http://handschriftencensus.de/25208,"Stooker/Verbeij, Bd. II, S. 282. (Nr. 847).",,,,200.00,10.17870,53.93520
 nd72,"London, British Library, MS Burney 339",1405,Unbekannt,"London, British Library",Brevier,15. Jh.,–,"82v-83v: I, 47",,http://handschriftencensus.de/14153,https://archive.org/stream/priebschhandschr02goog#page/n77/mode/2up,,,,200.00,10.17880,53.53530
 nd73,"Lübeck, Stadtbibliothek, Ms. theol. germ. 8° 90 (seit 2. WK verschollen)",1405,Unbekannt,"Lübeck, Stadtbibliothek",Lat.-nd. Andachten und Gebete,15. Jh.,–,"202v-207v: I, 43",,http://handschriftencensus.de/16212,https://archive.org/details/DieDeutschenTheologischenHandschriftenDerLuebeckischenStadtbibliothek/page/n83,,,,200.00,10.77830,52.78350
+nd124,"Maastricht, Canisianum, Hs. 4 [verbrannt]",1479,Augustiner,"Maastricht, Canisianum","Sammelhandschrift (Marien-Exempel, Caesarius von Heisterbach)",1479,"Augustiner-Chorfrauen St. Hieronymus, Leiden","106r–106v: I, 47 <br>
+147r–148r: I, 42 <br>
+196v–197v: I, 12  <br>
+231r–232r: evtl. ebenfalls MH-Stück","Vorbesitzer: Schwester Gertrud (Tochter eines Heinrichs), vgl. f. 229v <br>
+Katwijk, Gymnasium Sancti Willibrordi, Hs. 4 <br>
+Den Haag / 's-Gravenhage, Aloysiuscollege, Hs. 4",https://handschriftencensus.de/14536,https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000006408,,,,,4.48310,52.16270
 nd74,"München, Bayerische Staatsbibliothek, Cgm 864",1505,Unbekannt,"München, Bayerische Staatsbibliothek",Gebetbuch,um 1500,Niederlande,"53r–55v: V, 18",,http://www.handschriftencensus.de/10267,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0046_a696_JPG.htm,,,,150.00,6.04690,52.16360
-nd75,"München, Bayerische Staatsbibliothek, Cgm 7972",1405,Unbekannt,"München, Bayerische Staatsbibliothek",Gebetbuch,15. Jh.,–,"88v-89v: I, 6a+b",,http://handschriftencensus.de/21664,http://daten.digitale-sammlungen.de/~db/0003/bsb00035972/images/index.html?fip=193.174.98.30&seite=116&pdfseitex=,,,,200.00,10.37880,51.93450
+nd75,"München, Bayerische Staatsbibliothek, Cgm 7972",1465,Unbekannt,"München, Bayerische Staatsbibliothek",Gebetbuch (mit Predigten),3. Viertel 15. Jh.,Niederlande,"88v–89r: I, 6a+b",,http://handschriftencensus.de/21664,http://daten.digitale-sammlungen.de/~db/0003/bsb00035972/images/index.html?fip=193.174.98.30&seite=116&pdfseitex=,"https://www.digitale-sammlungen.de/de/view/bsb00145312?page=,1",,,200.00,10.37880,51.93450
 nd76,"Münster, Universitätsbibliothek, Cod. 192",1495,Benediktiner,"Münster, Universitäts- und Landesbibliothek",Sammelhandschrift,1494,"Liesborn, Benediktiner",?,Handschrift im 2. WK verbrannt;,–,https://archive.org/stream/chirographorvmi00unkngoog#page/n69/mode/2up,,,,0.50,8.25900,51.71040
 nd77,"Münster, Universitätsbibliothek, Ms. N.R. 1552",1505,Unbekannt,"Münster, Universitäts- und Landesbibliothek",Sammelhandschrift,1500,"Westdeutschland/ östliche 
 Niederlande",?,,–,https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/5735981,,,,100.00,6.90640,52.15730
@@ -144,32 +222,43 @@ nd78,"Nijmegen, Universitätsbibliothek, Hs. 188",1475,Augustiner,"Nimwegen / Ni
 Schwester Katrei",2. Hälfte 15. Jh.,"Arnheim, Agnes und Paul, 
 Augustinerinnen","189–191v: III, 1",,http://www.handschriftencensus.de/23192,"Stooker/Verbeji, Bd. 2, S. 56f.
 http://www.eckhart.de/Textzeugen/nijmegen.htm",https://wwwextern.ubn.ru.nl/BookReader/MMUBN000008_Hs%20188/#page/10/mode/2up,,,2.00,5.90990,51.99560
+nd123,"Nijmegen, Universitätsbibliothek, Hs. 316",1500,Unbekannt,"Nimwegen / Nijmegen, Universitätsbibliothek",Gebetbuch,um 1500,Flandern (Frauenkloster?),"99r–100r: I, 47","Vorbesitzer: bis 1975 Kloster Wittem, Redemptoristen",–,https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000000365,–,,,70.00,4.39090,51.10730
 nd79,"Nürnberg, Germanisches Nationalmuseum, Hs. 22403",1475,Unbekannt,"Nürnberg, Germanisches Nationalmuseum",Gebetbuch,2. Hälfte 15. Jh.,Niederrhein,"145r-147r: I, 47",,–,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0058_b081_jpg.htm,,,,40.00,6.55720,51.35270
 nd80,"Paderborn, Erzbischöfliche Bibliothek, Theodoriana Ba 79",1505,Unbekannt,"Paderborn, Erzbischöfliche Bibliothek",Gebetbuch,um 1500,Niederlande,266r: Gebet zu Maria,,http://www.handschriftencensus.de/18317,https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/5735895,,,,150.00,6.04690,52.16360
 nd81,"Paris, Bibliotheque Nationale, Dep. Bibl. de l'Arsenal 
-Ms. 8221 (früher Ms. 20bis Belg.)",1505,Unbekannt,"Paris, Bibliothèque Nationale",Gebetbuch (?),16. Jh.,–,"103r: I, 43",Katalognachweis bei Zieger,https://handschriftencensus.de/20571,"Catalogue général des manuscrits des bibliothèques, Tom. VI, S. 442f.",,,,200.00,11.02910,52.83520
-nd82,"Paris, Bibliotheque Nationale, Ms. néerl. 108",1405,Unbekannt,"Paris, Bibliothèque Nationale",Stundenbuch,15. Jh.,–,?,,–,http://gallica.bnf.fr/ark:/12148/bpt6k2091743/f63.item.zoom,,,,200.00,9.81540,52.63520
-nd83,"Oxford, Bodleian Library, Ms. Douce 44",1405,Sonstiges,"Oxford, Bodleian Library",MH als Einzeltext,15. Jh.,"Utrecht, Beginenhaus",1r-197r: I-V (?),Am Ende auch Vitendaten über Mechthild,–,"https://archive.org/stream/priebschhandschr01goog#page/n193/mode/2up;
+Ms. 8221 (früher Ms. 20bis Belg.)",1505,Unbekannt,"Paris, Bibliothèque Nationale",Andachtsbuch; Predigten und Traktate,16. Jh.,Niederlande,"103r–105r: I, 43",,https://handschriftencensus.de/20571,https://archivesetmanuscrits.bnf.fr/ark:/12148/cc806685,,,,100.00,5.29050,51.91230
+nd82,"Paris, Bibliotheque Nationale, Ms. néerl. 108",1405,Unbekannt,"Paris, Bibliothèque Nationale",Stundenbuch,15. Jh.,Diözese Utrecht,"150v–151v: I, 47","vgl. Dolch (1909), S. 28f.",–,http://gallica.bnf.fr/ark:/12148/bpt6k2091743/f63.item.zoom,https://gallica.bnf.fr/ark:/12148/btv1b52518186s,"Dolch, Walther: Die Verbreitung oberländischer Mystikerwerke im Niederländischen. Auf Grund der Handschriften dargestellt, Diss. Leipzig 1909.",,50.00,5.04400,52.06910
+nd83,"Oxford, Bodleian Library, Ms. Douce 44",1453,Sonstiges,"Oxford, Bodleian Library",MH als Einzeltext,15. Jh.,"Utrecht, Beginenhaus",1r–197r: II–IV,"Am Ende auch Vitendaten über Mechthild <p>
+Vorbesitzer: Francis Douce (1757–1834) <br>
+Ab 1834 in der Bodleian",–,"https://archive.org/stream/priebschhandschr01goog#page/n193/mode/2up;
 Stooker/Verbeij, Bd. II, S. 399 (Nr. 1193).",,,,,5.12160,52.09580
+nd126,"Oxford, Bodleian Library, Ms. Dutch f. 1",1490,Unbekannt,"Oxford, Bodleian Library","Geistliche Sammelhandschrift (Gebete, Andachten)",spätes  15. Jh.,Niederlande,"117v–118v: I, 43",seit 1962 in der Bodleian ,https://handschriftencensus.de/24520,https://medieval.bodleian.ox.ac.uk/catalog/manuscript_4787,,,,150.00,6.04690,52.16360
 nd117,"Rostock, Universitätsbibliothek, Mss. theol. 38",1470,Sonstiges,"Rostock, Universitätsbibliothek",Gebetbuch,1470,"Hildesheim, Lüchtenhof der Brüder vom gemeinsamen Leben","281r: III, 17 (Anfang)","enger Bezug zu Wolfenbüttel, HAB, Cod. 1025 Novi",https://handschriftencensus.de/3144,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0544_b215_jpg.htm,,,,,9.95330,52.14760
 nd84,"Rotterdam, Gemeentebibl., Hs. 96 G 8 
 (15 F 4) [früher Wernigerode, Fürstl. 
-Stolbergische Bibl., Cod. Zb 16]",1450,Unbekannt,"Rotterdam, Gemeentebibliotheek",Stundenbuch,ca. 1450,Diözese Utrecht,"248v-249v: I, 43 (?)",,http://handschriftencensus.de/18892,"http://diglib.hab.de/wdb.php?dir=drucke/ln-67&pointer=231
+Stolbergische Bibl., Cod. Zb 16]",1457,Unbekannt,"Rotterdam, Gemeentebibliotheek",Stundenbuch,1457,Diözese Utrecht,"248v–249v: I, 47","Vorbesitzer: 1664 Anna Maria Franssens <br>
+bis 1931 Stolbergische Bibliothek, Wernigerode <br>
+1931 M. Breslauer (London/New York) <br>
+seit 1931 in Rotterdam",http://handschriftencensus.de/18892,"http://diglib.hab.de/wdb.php?dir=drucke/ln-67&pointer=231
 Robrecht Lievens, Middelnederlandse handschriften in Oost-Europa (Leonard Willemsfonds I), 
 Gent 1963, S. 199. ",,,,2.00,5.08220,52.08230
-nd85,"St. Petersburg, Bibliothek der Russischen Akademie der 
-Wissenschaften, O Nr. 255",1525,Unbekannt,"St. Petersburg, Bibliothek der Russischen Akademie der Wissenschaften",Gebetbuch,1. Hälfte 16. Jh.,–,"188r–204r: I, 19d+e",,–,"Stooker / Verbeij, Bd. II, S. 208f. (Nr. 630);
-Robrecht Lievens, Middelnederlandse handschriften in Oost-Europa (Leonard Willemsfonds I), 
-Gent 1963, S. 116-120.",,,,200.00,11.77830,52.83610
+nd85a,"St. Petersburg, Bibliothek der Russischen Akademie der 
+Wissenschaften, O Nr. 255",1525,Augustiner,"St. Petersburg, Bibliothek der Russischen Akademie der Wissenschaften",Gebetbuch,1. Hälfte 16. Jh.," 's-Hertogenbosch, St. Gertrudis, Augustiner-Chorfrauen","188r–204r: I, 19d+e","evtl. nach Auflösung des Klosters in 's-Hertogenbosch (1629) wohl nach Rosmalen, Birgittinnen, evtl. dort bis Anfang des 18. Jh. ",–,"Stooker / Verbeij, Bd. II, S. 208f. (Nr. 630); <br>
+Robrecht Lievens, Middelnederlandse handschriften in 
+Oost-Europa (Leonard Willemsfonds I), Gent 1963, S. 116-120.",,,,,5.30280,51.69230
+nd85b,"St. Petersburg, Bibliothek der Russischen Akademie der 
+Wissenschaften, O Nr. 255",1629,Sonstiges,"St. Petersburg, Bibliothek der Russischen Akademie der Wissenschaften",Gebetbuch,1. Hälfte 16. Jh.,"Rosmalen, Birgittinnen, Coudewater","188r–204r: I, 19d+e","evtl. nach Auflösung des Klosters in 's-Hertogenbosch (1629) wohl nach Rosmalen, Birgittinnen, evtl. dort bis Anfang des 18. Jh. ",–,"Stooker / Verbeij, Bd. II, S. 208f. (Nr. 630); <br>
+Robrecht Lievens, Middelnederlandse handschriften in 
+Oost-Europa (Leonard Willemsfonds I), Gent 1963, S. 116-120.",,,,,5.36740,51.70080
 nd86,"St. Petersburg, Kaiserliche Öffentliche Bibliothek, 
-Goll. O. I.2 (jetzt in Warschau, Nationalbibliothek?)",1470,Unbekannt,"St. Petersburg, Bibliothek der Russischen Akademie der Wissenschaften",Gebetbuch (?),ca. 1470,–,"22r: I, 5d (Teil)
-46r: MH zugeschrieben","Die anderen Hss. der Gruppe kamen irgendwann 
-nach Warschau; kein Hsc.-Eintrag, Verbleib 
-unbekannt; MH zugeschriebenes Stück, bei 
-Bromberg noch I, 26 zugeordnet, von Zieger 
+Goll. O. I.2 (1944 verbrannt?)",1470,Unbekannt,"St. Petersburg, Bibliothek der Russischen Akademie der Wissenschaften","Gebetbuch (u.a. Seuse, Jordan)",ca. 1470,Mittelniederländisch,"22r: I, 5d (Teil)
+46r: MH zugeschrieben (Bearbeitung von III, 4?)","Kein Hsc.-Eintrag, Verbleib 
+unbekannt <br>
+MH zugeschriebenes Stück auf f. 46r, bei Bromberg noch I, 26 zugeordnet, von Zieger 
 widerlegt; derselbe zugeschriebene Text auch 
-in den Haag, 133 F 20",–,"Robrecht Lievens, Middelnederlandse handschriften in Oost-Europa (Leonard Willemsfonds I), 
-Gent 1963, S. 135-141.",,,,200.00,9.97220,52.81930
+in den Haag, 133 F 20 <br>
+Vorbesitzer: bis 1820 Carel Gerard Hultman (1752–1820), ab 1821 Jan Pieter van Suchtelen (1751–1836)",–,"Robrecht Lievens, Middelnederlandse handschriften in Oost-Europa (Leonard Willemsfonds I), 
+Gent 1963, S. 135-141.",,,,70.00,4.93970,51.91100
 nd87,"Tienen / Tirlemont, Dominikanerkloster, Ms. 7810 (Verbleib unbekannt)",1455,Unbekannt,,"Sammelhandschrift, Passion, geistliche Traktate etc.",ca. 1455,–,"S. 508-516: IV, 58, 59a+b",,–,"Lievens, Jordanus van Quedlinburg in de Nederlanden, S. 302.",,,,200.00,10.77870,53.03630
 nd88,"Trier, Stadtbibliothek, Hs. 833/1368 8°",1505,Unbekannt,"Trier, Stadtbibliothek","Sündenspiegel, Dietrich Kolde",um 1500,Westfalen,158v: Exzerpt,,http://www.handschriftencensus.de/8694,http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0508_b129_jpg.htm,,,,40.00,7.55390,51.85260
 nd99,"Utrecht, Museum Catharijneconvent, BMH h 55 
@@ -185,9 +274,11 @@ nd103,"Utrecht, Museum Catharijneconvent, BMH h 109
 nd104,"Warschau, Nationalbibliothek, Cod. 3779 I        
 [früher Hol. O. v. I.3; davor St. Petersburg, 
 Kaiserl. Öffentl. Bibl., Goll. O. v. I.3; davor Eremitage, 
-5.2.107]",1440,Unbekannt,"Warschau, Nationalbibliothek",Gebetbuch,ca. 1440,–,"108v-109v: I, 47
-123r: III, 17",Grisaille-Miniaturen; entgegen Lievens nicht verbrannt,http://handschriftencensus.de/18877,"Robrecht Lievens, Middelnederlandse handschriften in Oost-Europa (Leonard Willemsfonds I), 
-Gent 1963, S. 174-177.",https://polona.pl/item/5943274/,,,200.00,10.57960,53.13540
+5.2.107]",1440,Unbekannt,"Warschau, Nationalbibliothek",Gebetbuch (mit Kalender der Diözese Utrecht),ca. 1440,Diözese Utrecht (?),"108v–109v: I, 47
+123r–124r: III, 17","Grisaille-Miniaturen; entgegen Lievens nicht verbrannt <p>
+Vorbesitzer: Józef Andrzej Załuski (1702–1774) <br>
+St. Petersburg, Bibliothek der Russischen Akademie der Wissenschaften",http://handschriftencensus.de/18877,"Robrecht Lievens, Middelnederlandse handschriften in Oost-Europa (Leonard Willemsfonds I), 
+Gent 1963, S. 174-177.",https://polona.pl/item/5943274/,,,50.00,5.04400,52.06910
 nd105,"Wien, Österreichische Nationalbibliothek, Cod. 
 Ser. Nova 12869",1430,Augustiner,"Wien, Österreichische Nationalbibliothek","Gebetbuch, Seuse, Schwester Katrei",1431,"Oudergem, Rotes Kloster, 
 Augustiner",169v: Gebet,,http://www.handschriftencensus.de/12256,"Stooker / Verbeij, Bd. II, S. 346f. (Nr. 1033)",,,,,4.44330,50.81370

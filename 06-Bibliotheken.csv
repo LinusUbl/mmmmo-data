@@ -1,7 +1,9 @@
 name,long,lat
 "Amsterdam, Universitätsbibliothek",4.88980,52.36810
+"Antwerpen, Minoritenkonvent",4.39480,51.21580
 "Augsburg, Staats- und Stadtbibliothek",10.89060,48.36950
 "Augsburg, Universitätsbibliothek",10.89510,48.33460
+"Averbode, Abdij der Norbertijnen",4.97920,51.03270
 "Avignon, Bibliothèque Municipale",4.81100,43.94710
 "Basel, Universitätsbibliothek",7.58130,47.55950
 "Berlin, Staatsbibliothek",13.37100,52.50760
@@ -23,6 +25,7 @@ name,long,lat
 "Dublin, Trinity College",-6.25590,53.34410
 "Düsseldorf, Landes- und Staatsbibliothek",6.79520,51.18830
 "Ebstorf, Klosterbibliothek",10.41250,53.03050
+"Eichstätt, Universitätsbibliothek",11.18710,48.88880
 "Eisleben, Stiftung Luthergedenkstätten",11.54470,51.52820
 "Erlangen, Universitätsbibliothek",11.00710,49.59900
 "Frankfurt, Universitätsbibliothek",8.66890,50.12570
@@ -38,6 +41,7 @@ name,long,lat
 "Greifswald, Universitätsbibliothek",13.40640,54.09070
 "Halle, Universitäts- und Landesbibliothek",11.97070,51.48960
 "Hamburg, Staats- und Universitätsbibliothek",9.98520,53.56470
+"Hannover, Landesbibliothek",9.73080,52.36520
 "Heidelberg, Universitätsbibliothek",8.70590,49.40990
 "Hildesheim, Stadtarchiv",9.94340,52.14980
 "Hohenfurt / Vyšší Brod (Böhmen), Stiftsbibliothek",14.30490,48.62140
@@ -57,6 +61,7 @@ name,long,lat
 "London, British Library",-0.12730,51.53010
 "Lübeck, Stadtbibliothek",10.69020,53.86860
 "Lund, Universitätsbibliothek",13.19710,55.70930
+"Maastricht, Canisianum",5.68440,50.84490
 "Mainz, Martinus-Bibliothek",8.27450,49.99780
 "Mainz, Stadtbibliothek",8.26960,50.00860
 "München, Bayerische Staatsbibliothek",11.58070,48.14770

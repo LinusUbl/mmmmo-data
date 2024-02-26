@@ -1,6 +1,6 @@
 ,signature,year (map),order,library,category (desc),date (desc),location (desc),extract (desc),description,hsc,catalog,digital copy,additional info,origin,radius,long,lat
-fr1,"Berlin, Staatsbibliothek, Ms. theol. lat. oct. 71",1490,Sonstiges,"Berlin, Staatsbibliothek",Gebetbuch,4. Viertel 15. Jh.,"Birgittenkloster Vadstena; 
-schwedisch","102v–103v: I, 47
+fr1,"Berlin, Staatsbibliothek, Ms. theol. lat. oct. 71",1490,Sonstiges,"Berlin, Staatsbibliothek",Gebetbuch,4. Viertel 15. Jh.,"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","102v–103v: I, 47
 168r–170r: I, 19
 172r–174v: III, 1
 174v–176r I, 18
@@ -16,13 +16,48 @@ fr7,"Lund, Universitätsbibliothek, Cod. Bergman",1420,Sonstiges,"Lund, Universi
 mittelschwedisch","I, 23",,–,–,,,,,14.89050,58.45100
 fr8,"Oxford, Bodleian Library, Ms. 220",1425,Unbekannt,"Oxford, Bodleian Library",MH Haupttext,1. Hälfte 15. Jh.,mittelenglisch,1r-101r: Exzerpte,,–,–,,,,100.00,-0.94670,52.47340
 fr9,"Philadelphia, Rare Book & Manuscript Library Collections, Cod. Ital. 91",1470,Unbekannt,,MH als Einzeltext (?),spätes 15. Jh.,italienisch,–,,–,–,,,,300.00,11.97960,43.41320
-fr10,"Stockholm, Kungliga Biblioteket, A 9",1490,Unbekannt,"Stockholm, Kungliga Biblioteket",–,1480/1500,mittelschwedisch,"f. 40: I, 19e
-f. 66/67: I, 30",,–,–,,,,300.00,16.34900,63.28310
-fr11,"Stockholm, Kungliga Biblioteket, A 13
-",1465,Unbekannt,"Stockholm, Kungliga Biblioteket",MH als Einzeltext,1469,mitteldänisch,‚komplett‘,,–,–,,,,50.00,9.30020,56.13020
-fr12,"Stockholm, Kungliga Biblioteket, A 29",,Unbekannt,"Stockholm, Kungliga Biblioteket",–,–,–,"I, 47",,–,–,,,,,,
-fr13,"Stockholm, Kungliga Biblioteket, A 38",,Unbekannt,"Stockholm, Kungliga Biblioteket",–,–,–,"I, 19e, 47",,–,–,,,,,,
-fr14,"Stockholm, Kungliga Biblioteket, A 43",,Unbekannt,"Stockholm, Kungliga Biblioteket",–,–,–,"I, 19, 47",,–,–,,,,,,
-fr15,"Stockholm, Kungliga Biblioteket, 
-Brigitta Anderdotters Buch (ohne Sign.)",1520,Unbekannt,"Stockholm, Kungliga Biblioteket",–,ca. 1520,–,"f. 39: I, 19d
-f. 40: I, 19e, 47",,–,–,,,,,,
+fr16a,"Stockholm, Kungliga Biblioteket, Cod. A 3",1502,Sonstiges,"Stockholm, Kungliga Biblioteket",Sammelhandschrift (für Tischlesung),1502,"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","25va–26ra: I, 14 <br> 
+65ra–vb: I, 19a+b <br>  
+91va–92ra: I, 32 <br> 
+124ra: I, 5a <br> 
+127vb–130ra: I,5b–d <br> 
+140ra–141ra: I, 6a–c <br> ","mittelschwedisch <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt. <p> Ab ca. 1620 im Reichsarchiv, ab 1780 in der Königlichen Bibliothek.",–,https://www.manuscripta.se/ms/100203,https://weburn.kb.se/metadata/674/hs_19363674.htm,,,,14.89050,58.45100
+fr16b,"Stockholm, Kungliga Biblioteket, Cod. A 3",1620,Sonstiges,"Stockholm, Kungliga Biblioteket",Sammelhandschrift (für Tischlesung),1620,"Reichsarchiv Stockholm
+","25va–26ra: I, 14 <br> 
+65ra–vb: I, 19a+b <br>  
+91va–92ra: I, 32 <br> 
+124ra: I, 5a <br> 
+127vb–130ra: I,5b–d <br> 
+140ra–141ra: I, 6a–c <br> ","mittelschwedisch <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt. <p> Ab ca. 1620 im Reichsarchiv, ab 1780 in der Königlichen Bibliothek.",–,https://www.manuscripta.se/ms/100203,https://weburn.kb.se/metadata/674/hs_19363674.htm,,fr16a,,18.02242,59.32650
+fr10a,"Stockholm, Kungliga Biblioteket, Cod. A 9",1498,Sonstiges,"Stockholm, Kungliga Biblioteket",Thomas von Froidmont (Pseudo-Bernhard von Clairvaux): Modus bene vivendi u.a.,1498–1502,"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","119v–121r: I, 30","mittelschwedisch <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt. <p> Ab ca. 1620 im Reichsarchiv, ab 1780 in der Königlichen Bibliothek.",–,https://www.manuscripta.se/ms/100209,https://weburn.kb.se/metadata/171/hs_16914171.htm,,,,14.89050,58.45100
+fr10b,"Stockholm, Kungliga Biblioteket, Cod. A 9",1620,Sonstiges,"Stockholm, Kungliga Biblioteket",Thomas von Froidmont (Pseudo-Bernhard von Clairvaux): Modus bene vivendi u.a.,1620,Reichsarchiv Stockholm,"119v–121r: I, 30","mittelschwedisch <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt. <p> Ab ca. 1620 im Reichsarchiv, ab 1780 in der Königlichen Bibliothek.",–,https://www.manuscripta.se/ms/100209,https://weburn.kb.se/metadata/171/hs_16914171.htm,,fr10a,,18.02242,59.32650
+fr11a,"Stockholm, Kungliga Biblioteket, Cod. A 13
+",1490,Sonstiges,"Stockholm, Kungliga Biblioteket",MH als Einzeltext,1490–1502,"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","Buch I–V (bricht in V,17 ab)","mittelschwedisch <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899; nach dieser Hs.)), welche eine andere Zählung vornimmt. <p> Ab ca. 1620 im Reichsarchiv, ab 1780 in der Königlichen Bibliothek.",–,https://www.manuscripta.se/ms/100212,https://weburn.kb.se/metadata/lwp/hs_6h3psglt45976lwp.htm,,,,14.89050,58.45100
+fr11a,"Stockholm, Kungliga Biblioteket, Cod. A 13",1620,Sonstiges,"Stockholm, Kungliga Biblioteket",MH als Einzeltext,1490–1502,Reichsarchiv Stockholm,"Buch I–V (bricht in V,17 ab)","mittelschwedisch <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899; nach dieser Hs.), welche eine andere Zählung vornimmt. <p> Ab ca. 1620 im Reichsarchiv, ab 1780 in der Königlichen Bibliothek.",–,https://www.manuscripta.se/ms/100212,https://weburn.kb.se/metadata/lwp/hs_6h3psglt45976lwp.htm,,fr11a,,18.02242,59.32650
+fr17,"Stockholm, Kungliga Biblioteket, Cod. A 37",1480,Sonstiges,"Stockholm, Kungliga Biblioteket",Gebetbuch der Märita Thuresdotter ,vor 1508 (1470–1496 / 1500–1508),"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","31v–36v: I,19e <br> 
+81r–83v: I, 47","mittelschwedisch <p> Geschrieben von Märita Thuresdotter (Tod 1508) <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt. <p> ab 1780 in der Königlichen Bibliothek.",,https://www.manuscripta.se/ms/100221,–,,,,14.89050,58.45100
+fr13,"Stockholm, Kungliga Biblioteket, Cod. A 38",1490,Sonstiges,"Stockholm, Kungliga Biblioteket",Gebetbuch der Christina Hansdotter Brask (lat.-schwed.),vor 1520 (1460–1520),"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","119v–121r: I, 47  <br>
+154v–157r: I, 19e","mittelschwedisch <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt. <p> ab 1780 in der Königlichen Bibliothek.",–,https://www.manuscripta.se/ms/100222,https://www.manuscripta.se/ms/100222,,,,14.89050,58.45100
+fr14,"Stockholm, Kungliga Biblioteket, Cod. A 43",1501,Sonstiges,"Stockholm, Kungliga Biblioteket",Gebetbuch der Ingegärd Ambjörnsdotters (lat.-schwed.),1501–1527,"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","88r–89r: I, 47 <br>
+114r–116r: I, 19e","mittelschwedisch <p> Geschrieben wsl. von Anna Svensdotter <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt. <p> ab 1780 in der Königlichen Bibliothek.",–,https://www.manuscripta.se/ms/100223,https://weburn.kb.se/metadata/761/hs_16915761.htm,,,,14.89050,58.45100
+fr15,"Stockholm, Kungliga Biblioteket, Cod. A 80",1520,Sonstiges,"Stockholm, Kungliga Biblioteket",Gebetbuch der Birgitta Andersdotter (lat.-schwed.),1518–1532,"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","138v–140r: I, 19d <br>
+140ar–142r: I, 19e <br>
+152v–153v: I, 47 <br>
+160r: Textstück über 25 Vaterunser, Mechthild zugeschrieben
+","mittelschwedisch <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt. <p> im Privatbesitz von Arnold Johan Messenius (1636–1641), Per Brahe (ab 1641), Adolf Göran Mörner (1829), Jonas Svensson aus Stänkelsby (1829), Petter Andersson aus Hagen (ab 1829), Oskar Carlheim-Gyllensköld (1847); seit 1847 in der Königlichen Bibliothek; laut Katalog wurde am 18. März 1991 ein Blatt (f. 140A, zwischen zwei Mechthild-Abschnitten!) für 5.000 Kronen an den Ingenieur Gösta Thames verkauft",–,https://www.manuscripta.se/ms/100234,https://www.manuscripta.se/ms/100234,,,,14.89050,58.45100
+fr18,"Stockholm, Kungliga Biblioteket, Cod. A 81",1495,Sonstiges,"Stockholm, Kungliga Biblioteket",Gebetbuch der Dorotea Nilsdotter (lat.-schwed.),1492–1519,"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","31r–32v: I, 47 <p>
+81v–83v: I, 19e","mittelschwedisch <p> Geschrieben teilweise von Katarina Gudmundi <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt. <p> im Privatbesitz von Gustaf Stjernström (ca. 1850–1905); ab 1905 in der Königlichen Bibliothek.",–,https://www.manuscripta.se/ms/100235,–,,,,14.89050,58.45100
+fr19,"Uppsala, Universitätsbilbiothek, Cod. C 12",1450,Sonstiges,"Uppsala, Carolina Rediviva (Universitätsbibliothek)",Gebetbuch für eine Nonne aus dem Erlöserorden (lat.-schwed.),1450–1520,"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","147r–150r: I, 19e <p>
+190v–192r: I, 47","mittelschwedisch <p> Geschrieben wsl. von Christina Hansdotter Brask <p> Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt.",,https://www.manuscripta.se/ms/100406,https://www.alvin-portal.org/alvin/attachment/document/alvin-record:168497/ATTACHMENT-0395.pdf,,,,14.89050,58.45100
+fr20,"Uppsala, Universitätsbilbiothek, Cod. C 68",1490,Sonstiges,"Uppsala, Carolina Rediviva (Universitätsbibliothek)",Gebetbuch (lat.-schwed.),Ende 15. / Anfang 16. Jh.,"Vadstena, Birgitten-Doppelkloster /
+mittelschwedisch","105r–107r: I, 19e <p>
+114v–115v: I, 47","mittelschwedisch <p>  Der Katalog folgt in der Kapitelzählung der schwedischen Edition Geetes (1899), welche eine andere Zählung vornimmt.",–,https://www.manuscripta.se/ms/100424,https://www.alvin-portal.org/alvin/attachment/document/alvin-record:184919/ATTACHMENT-0303.pdf,,,,14.89050,58.45100
